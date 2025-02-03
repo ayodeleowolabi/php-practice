@@ -89,6 +89,7 @@ do {
 } while ($a <= 5);
 echo "A do while loop will execute a block of code once and then repeat the loop/block of code ONLY if the condition is true.";
 echo "<br> <strong> For Loops </strong>";
+
 echo "<br>for loop you use when you know in advance how many times you want the code block to execute.";
 for ($x = 0; $x<=10; $x++){
     echo "$x <br>";
